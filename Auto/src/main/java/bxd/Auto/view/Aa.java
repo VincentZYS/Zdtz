@@ -36,7 +36,7 @@ public class Aa extends JFrame {
 	}
 
 	/**
-	 * Create the frame
+	 * Create the frame我再次修改了注释
 	 */
 	public Aa() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

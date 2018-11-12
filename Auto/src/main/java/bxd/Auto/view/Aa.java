@@ -36,7 +36,7 @@ public class Aa extends JFrame {
 	}
 
 	/**
-	 * Create the frame.asdf
+	 * Create the frame
 	 */
 	public Aa() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

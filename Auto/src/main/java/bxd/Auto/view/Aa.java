@@ -26,7 +26,7 @@ public class Aa extends JFrame {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
-					//Aa frame = new Aa();
+					Aa frame = new Aa();
 					frame.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();

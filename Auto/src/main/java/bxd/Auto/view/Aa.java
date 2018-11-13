@@ -20,7 +20,7 @@ public class Aa extends JFrame {
 	private JPanel contentPane;
 	
 	/**
-	 * Launch the application11118
+	 * Launch the application1111812312313123123123
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
